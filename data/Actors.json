@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"옷입은npc","classId":1,"equips":[1,1,2,3,0],"faceIndex":15,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"김춘식","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"옷입은npc","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"경비원1","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":4,"characterName":"드디어 옷 입었다","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"도둑","nickname":"","note":"","profile":"축제에서 물건을 훔친 범인"}
+]

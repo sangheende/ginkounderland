@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,1,1]},{"code":401,"indent":0,"parameters":["[원래대로 돌아가고 싶다면 운명을 쫒아라."]},{"code":401,"indent":0,"parameters":["수정구슬이 답을 알려줄 것이다.]"]},{"code":0,"indent":0,"parameters":[]}],"name":"쪽지","switchId":3,"trigger":0},
+{"id":2,"list":[{"code":231,"indent":0,"parameters":[1,"KakaoTalk_20220916_143258721",0,0,0,0,25,25,255,0]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["파란 점박이 개구리. 항상 나시와 파란 츄리닝 착용."]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"범인의 사진","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
